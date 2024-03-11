@@ -13,6 +13,7 @@ This is a web 3 application for voting in India. It is a decentralized applicati
 
 - Solidity
 - MetaMask
+- hardhat
 - React
 
 ## Installation
