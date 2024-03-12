@@ -65,3 +65,59 @@ body {
 .card-content {
   color: #555;
 }
+.app-container {
+  max-width: 960px;
+  margin: 25px auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.app-header {
+  font-size: 24px;
+  color: #333;
+  text-align: center;
+  margin-bottom: 24px;
+  font-weight: bold;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.connect-btn,
+.disconnect-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.connect-btn {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.disconnect-btn {
+  background-color: #f44336;
+  color: white;
+}
+
+.connect-btn:hover {
+  background-color: #45a049;
+}
+
+.disconnect-btn:hover {
+  background-color: #d32f2f;
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
