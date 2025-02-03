@@ -37,10 +37,13 @@ npm start
 4. View the results
 
 ## License
+## Authors  
 
-[MIT](https://choosealicense.com/licenses/mit/)
+- [Samarth](https://www.github.com/FUTHARVSTUD)  
+ - [Sajal](https://github.com/sajaltandon)  
+
+
 
 ## Authors
 
-- [Samarth](https://www.github.com/FUTHARVSTUD)
-- [Mantresh](https://github.com/mantreshkhurana)
+
